@@ -1,0 +1,4 @@
+requests
+chompjs
+pokemon_formats
+pokepastes_scraper

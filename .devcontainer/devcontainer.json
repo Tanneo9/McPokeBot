@@ -1,0 +1,4 @@
+{
+"name": "McPokeBot Environment",
+"postCreateCommand": "pip3 install -r requirements.txt"
+}
